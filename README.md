@@ -1,5 +1,5 @@
 # 🌐 My Portfolio Website
-Welcome to the repository of my RAIDx portfolio 
+Welcome to the repository of my RaidX portfolio 
 This website showcases who I am, my projects, skills, and how to get in touch with me.
 I am on my way , working on many projex....
 
